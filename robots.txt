@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zhangweiting999-alt.github.io//sitemap.xml
